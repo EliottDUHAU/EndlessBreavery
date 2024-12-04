@@ -8,6 +8,12 @@ EndlessBreavery is a Java-based 2D adventure game that immerses players in a wor
 - **Expandable game features**, allowing easy modifications and improvements.
 - **Swing API** for GUI elements and animation.
 
+## Contributors
+This project was developed by two contributors as part of a school project.
+
+- **Contributor 1:** [Pierre Lenertz](https://github.com/NyaStone)
+- **Contributor 2:** [Hector Pfister](https://github.com/Hector-boopy)
+
 ## Dependencies
 - Java 8 or higher
 
