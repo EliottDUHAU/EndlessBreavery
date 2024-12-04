@@ -1,31 +1,34 @@
-# EndlessBreavery a Java 2D game
+# EndlessBreavery: A Java 2D Game
 
-EndlessBreavery is a Java-based adventure game that offers an engaging experience filled with challenges and bravery. This game is made from scratch using Java and the swing api.
+EndlessBreavery is a Java-based 2D adventure game that immerses players in a world filled with challenges and bravery. Developed from scratch using Java and the Swing API, this game offers an engaging experience with the flexibility to expand upon its gameplay mechanics.
 
 ## Features
-- Java-powered adventure
-- Simple user interface
-- Expandable mechanics for more gameplay
+- **2D Java-powered adventure** game with smooth gameplay mechanics.
+- **Intuitive user interface** for an immersive gaming experience.
+- **Expandable game features**, allowing easy modifications and improvements.
+- **Swing API** for GUI elements and animation.
 
 ## Dependencies
-Java 8 or higher (for the command line option)
+- Java 8 or higher
 
 ## How to Run
 
 ### Option 1: Command Line (Java)
 
-Extract the archive and run the command below to run the java application. 
-```bash
-java Main.class
-```
+1. Extract the archive.
+2. Run the Java application with the following command:
+   ```bash
+   java Main.class
+
 ### Option 2: Using the Executable
 
 1. Download the ZIP folder from the repository.
 2. Extract the contents.
 3. Locate and run the .exe file to start the game.
 
-[JavaDoc](/documents/javadoc/index.html)
 
-[Game Design Document](/documents/designDocument.md)
+## Documentation
 
-[Diagrams and Patterns explanation](/documents/diagrams.md)
+- [JavaDoc](/documents/javadoc/index.html) - API documentation for the project.
+- [Game Design Document](/documents/designDocument.md) - Detailed game design and mechanics explanation.
+- [Diagrams and Patterns explanation](/documents/diagrams.md) - Overview of the game's structure and design patterns
